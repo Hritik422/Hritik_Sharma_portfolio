@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.657233c9.css",
+    "main.js": "/static/js/main.abd56af9.js",
+    "static/media/back1.mp4": "/static/media/back1.d28831bc5d9eeb4a9a44.mp4",
+    "static/media/git.png": "/static/media/git.9f69fca7305551535cc5.png",
+    "static/media/park.png": "/static/media/park.faff92d2c7f6ca7a05e2.png",
+    "static/media/kalyanam.png": "/static/media/kalyanam.06fb0887276a1ad69bb5.png",
+    "static/media/flask.png": "/static/media/flask.1dfb0a77f9428d1882eb.png",
+    "static/media/python.png": "/static/media/python.d7a21d969a68b01c2b64.png",
+    "static/media/medidesk.png": "/static/media/medidesk.e169adfa9972f227bda3.png",
+    "static/media/pic.jpeg": "/static/media/pic.be570ee31d2c53d76aff.jpeg",
+    "static/media/js.jpg": "/static/media/js.ac815bbeda56b190c52f.jpg",
+    "static/media/C++.png": "/static/media/C++.d29dcbab9dc538d6961d.png",
+    "static/media/react.png": "/static/media/react.0438bc55125799597f93.png",
+    "static/media/c.jpg": "/static/media/c.dfc07a728360f40f214d.jpg",
+    "static/media/github.jpg": "/static/media/github.3f19c1e3a5cd0fc16223.jpg",
+    "static/media/codeforces.jpg": "/static/media/codeforces.db8f3bba7710c0a48fa0.jpg",
+    "static/media/css.png": "/static/media/css.0ca65abfc0c427bc3506.png",
+    "static/media/kink.jpg": "/static/media/kink.2fb0714b03227e5dd3bd.jpg",
+    "static/media/codechef.jpg": "/static/media/codechef.c6fb36c804792a8da03a.jpg",
+    "index.html": "/index.html",
+    "main.657233c9.css.map": "/static/css/main.657233c9.css.map",
+    "main.abd56af9.js.map": "/static/js/main.abd56af9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.657233c9.css",
+    "static/js/main.abd56af9.js"
+  ]
+}
